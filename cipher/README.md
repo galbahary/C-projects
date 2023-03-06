@@ -1,1 +1,1 @@
-# ex1-galbah
+# simple decode and encode program
